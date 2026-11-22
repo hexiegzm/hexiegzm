@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 大二数据科学与大数据技术专业在读，沉迷用AI和绘画艺术的理科生~
 
 
-- 🔭 I'm currently working on：简单的**claude pet桌宠mod**
+- 🔭 I'm currently working on：vocab-ledger
 - 🌱 I'm currently learning：机器学习计算机视觉
 - 👯 I'm looking to collaborate on：AI绘画，数据分析
 - 🤔 I'm looking for help with：AI绘画的原理及应用
