@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 ## 👨‍🎓 About Me
-大二数据科学与大数据技术专业在读，沉迷用AI和绘画艺术的理科生~
+大三数据科学与大数据技术专业在读，沉迷用AI和绘画艺术的理科生~
 
 
 - 🔭 I'm currently working on：vocab-ledger
